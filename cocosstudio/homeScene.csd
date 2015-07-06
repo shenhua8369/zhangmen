@@ -13,16 +13,6 @@
             <EasingData Type="0" />
           </ScaleFrame>
         </Timeline>
-        <Timeline ActionTag="-960143448" Property="Position">
-          <PointFrame FrameIndex="0" X="816.4836" Y="271.2576">
-            <EasingData Type="0" />
-          </PointFrame>
-        </Timeline>
-        <Timeline ActionTag="-960143448" Property="AnchorPoint">
-          <ScaleFrame FrameIndex="0" X="0.0000" Y="0.0000">
-            <EasingData Type="0" />
-          </ScaleFrame>
-        </Timeline>
         <Timeline ActionTag="-174450162" Property="Position">
           <PointFrame FrameIndex="0" X="430.0000" Y="0.0000">
             <EasingData Type="0" />
@@ -47,21 +37,6 @@
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
-                <PreSize X="0.3281" Y="0.0704" />
-                <TextColor A="255" R="65" G="65" B="70" />
-                <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
-                <NormalFileData Type="Default" Path="Default/Button_Normal.png" Plist="" />
-                <OutlineColor A="255" R="255" G="0" B="0" />
-                <ShadowColor A="255" R="110" G="110" B="110" />
-              </AbstractNodeData>
-              <AbstractNodeData Name="Button_1_0" ActionTag="-960143448" Tag="6" IconVisible="False" LeftMargin="816.4836" RightMargin="-386.4836" TopMargin="608.7424" BottomMargin="271.2576" TouchEnable="True" FontSize="36" ButtonText="功法" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="16" Scale9Height="14" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="ButtonObjectData">
-                <Size X="210.0000" Y="80.0000" />
-                <AnchorPoint />
-                <Position X="816.4836" Y="271.2576" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="1.2758" Y="0.2826" />
                 <PreSize X="0.3281" Y="0.0704" />
                 <TextColor A="255" R="65" G="65" B="70" />
                 <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
